@@ -1,0 +1,39 @@
+html {
+    font-size: 10px; /* px significa "pixeles": El tamaño fuente base es de 10 pixeles de altura  */    
+    font-family: 'DotGothic16', sans-serif; /* esto es el resto de codigo que se obtuvo de google fonts */
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+html {
+    background-color: #2f5d62;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ffe268;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #2f5d62;
+    text-shadow: 3px 3px 3px black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
